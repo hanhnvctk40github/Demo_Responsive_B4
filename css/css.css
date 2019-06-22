@@ -1,0 +1,83 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.container-fluid-style {
+    background-color: #5fd080;
+    height: 600px;
+}
+.logo-big {
+    width: 200px;
+}
+
+.logo-small {
+    width: 50px;
+}
+
+.link-color {
+    font-size: 18px;
+}
+
+.active-link-color {
+    font-size: 18px;
+    color: #5fd080 !important;
+}
+.container-style {
+    margin-top: 70px;
+}
+
+.main {
+    color: white;
+}
+
+.register {
+    background: white;
+    border-radius: 3px;
+}
+
+.register-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #5e7992;
+    color: white;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    
+}
+
+.register label {
+    color: black;
+    font-size: 18px;
+}
+
+.btn-submit {
+    background: #5fd080;
+    color: white;
+}
+
+.text-color-1 {
+    color: rgba(0, 0, 0, .5);
+}
+
+.text-color-1:hover {
+    text-decoration: none;
+}
+
+.text-color-2 {
+    color: #007bff;
+}
+
+.text-color-2:hover {
+    text-decoration: none;
+}
+
+.inline {
+    display: flex;
+    flex-direction: row;
+}
